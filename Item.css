@@ -1,0 +1,30 @@
+
+.Item-container{
+    width: 400px;
+    height: 400px;
+}
+.Item{
+    width: 350px;
+}
+.Item img{
+    width: 350px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.Item p{
+    font-size: 23px;
+}
+
+.Item-price{
+    display: flex;
+    color: #333;
+    font-size: 20px;
+}
+
+.Item button{
+    width: 100px;
+    padding: 10px;
+    color: wheat;
+    background-color: blue;
+}
